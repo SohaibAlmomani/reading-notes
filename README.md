@@ -7,6 +7,7 @@ This page can keep track of my observations and questions from the Reading Assig
 > # Prep notes :
 
 - [Introduction to Sql ](./introduction-to-SQL/README.md)
+- [Git Practice ](./Git%20Practice/README.md)
 
 <!-- | **Days** | **Link**              |
 | -------- | --------------------- |
