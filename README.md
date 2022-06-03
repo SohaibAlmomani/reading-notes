@@ -2,9 +2,11 @@
 
 # My notes through advanced level :
 
+This page can keep track of my observations and questions from the Reading Assignments throughout my course.
+
 > # Prep notes :
 
-This page can keep track of my observations and questions from the Reading Assignments throughout my course.
+- [Introduction to Sql ](./introduction-to-SQL/README.md)
 
 <!-- | **Days** | **Link**              |
 | -------- | --------------------- |
