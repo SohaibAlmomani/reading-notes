@@ -1,4 +1,12 @@
-# reading-notes
+# Reading-Notes
+
+- ## Code 102 - Intro to Software Development
+
+- ## Code 201 - Foundations of Software Development
+
+- ## Code 301 - Intermediate Software Development
+
+- ## Code 401 - Advanced Software Development
 
 # My notes through advanced level :
 
@@ -8,6 +16,8 @@ This page can keep track of my observations and questions from the Reading Assig
 
 - [Introduction to Sql ](./introduction-to-SQL/README.md)
 - [Git Practice ](./Git%20Practice/README.md)
+- [Bach Practice ](./Bach%20Practice/README.md)
+- [Typing Practice](./Typing%20Practice/README.md)
 
 <!-- | **Days** | **Link**              |
 | -------- | --------------------- |
@@ -26,4 +36,4 @@ This page can keep track of my observations and questions from the Reading Assig
 
 > # FrontEnd Notes :
 
-# Things I want to know more about
+> # Things I want to know more about :
