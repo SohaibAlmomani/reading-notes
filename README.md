@@ -16,7 +16,7 @@ This page can keep track of my observations and questions from the Reading Assig
 
 - [Introduction to Sql ](./introduction-to-SQL/README.md)
 - [Git Practice ](./Git%20Practice/README.md)
-- [Bach Practice ](./Bach%20Practice/README.md)
+- [Bach Command Line ](./Bach%20Practice/README.md)
 - [Typing Practice](./Typing%20Practice/README.md)
 
 <!-- | **Days** | **Link**              |
