@@ -35,5 +35,32 @@
 - Hbase.
 - Neo4j.
 
-
 # Data Modeling :
+
+## Data Modeling – Table Elements :
+
+![Table Elements](./assets/table-elements.png)
+
+- Table Name : which is located at the top of the table.
+- Primary Keys : Remember the primary keys uniquely identify each row in a table. A table typically has one primary key, but can have more. When the key has more than one column, it is called a compound key.
+- Table Columns : There can be one or more table columns. To keep the diagrams simple, I don’t show the data types. I may introduce those later when we focus on more comprehensive modeling.
+- Foreign Key : This is a column or set of columns which match a primary key in another table.
+
+## Data Modeling – Table Relationships :
+
+![Table Relationships](./assets/table-relationships.png)
+
+| Cardinality         | Notation |
+| ------------------- | -------- |
+| zero or one-to-many | 0..\*    |
+| one-to-many         | 1..\*    |
+| zero or one-to-one  | 0..1     |
+| one-to-one          | 1..1     |
+
+[nosql vs sql](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
+
+[sql modeling techniques](https://www.essentialsql.com/get-ready-to-learn-sql-7-simplified-data-modeling/)
+
+[sql vs nosql Videos](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y&ab_channel=Academind)
+
+[sequelize api](https://sequelize.org/docs/v6/)
