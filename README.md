@@ -31,6 +31,7 @@ This page can keep track of my observations and questions from the Reading Assig
 - [Class 02 Express-Routing-Middlewares](Class_02-Express-REST-API.md)
 - [Class 03 sequelize -SQL/NoSQL- Data Modeling](Data_Modeling.md)
 - [Class 04 sequelize-normalization](sequelize-normalization.md)
+- [Class 06 Authentication](Authentication.md)
 
 > # Data Structure Notes :
 
