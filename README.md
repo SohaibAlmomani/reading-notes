@@ -32,6 +32,7 @@ This page can keep track of my observations and questions from the Reading Assig
 - [Class 03 sequelize -SQL/NoSQL- Data Modeling](Data_Modeling.md)
 - [Class 04 sequelize-normalization](sequelize-normalization.md)
 - [Class 06 Authentication](Authentication.md)
+- [Class 07 Bearer Authorization-JWT](Bearer-Authorization-JWT.md)
 
 > # Data Structure Notes :
 
