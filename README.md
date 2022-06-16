@@ -33,6 +33,7 @@ This page can keep track of my observations and questions from the Reading Assig
 - [Class 04 sequelize-normalization](sequelize-normalization.md)
 - [Class 06 Authentication](Authentication.md)
 - [Class 07 Bearer Authorization-JWT](Bearer-Authorization-JWT.md)
+- [Class 08 Access Control (ACL)](Access%20Control%20(ACL).md)
 
 > # Data Structure Notes :
 
