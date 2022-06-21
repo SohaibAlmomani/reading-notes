@@ -34,6 +34,7 @@ This page can keep track of my observations and questions from the Reading Assig
 - [Class 06 Authentication](Authentication.md)
 - [Class 07 Bearer Authorization-JWT](Bearer-Authorization-JWT.md)
 - [Class 08 Access Control (ACL)](Access%20Control%20(ACL).md)
+- [Class 10 Stacks and Queues](Stacks-%26-Queues.md)
 
 > # Data Structure Notes :
 
