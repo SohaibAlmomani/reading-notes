@@ -31,61 +31,67 @@ Examples of real-time applications :
 
 To get started with developing using the Socket.IO, you need to have Node and npm (node package manager) installed. Then we need to install `Express` and `Socket.IO`. To install these and save them to package.json file, enter the following command in your terminal, into the project directory :
 
-~~~
+```
 npm install --save express socket.io
-~~~
+```
 
 Example : (this require Socket.IO), it will log "A user connected", every time a user goes to this page and "A user disconnected", every time someone navigates away/closes this page.
 
-~~~js
-var app = require('express')();
-var http = require('http').Server(app);
-var io = require('socket.io')(http);
+```js
+var app = require("express")();
+var http = require("http").Server(app);
+var io = require("socket.io")(http);
 
-app.get('/', function(req, res){ res.sendFile('E:/test/index.html');
+app.get("/", function (req, res) {
+  res.sendFile("E:/test/index.html");
 });
 
 //Whenever someone connects this gets executed
-io.on('connection', function(socket){
-   console.log('A user connected');
-   
-   //Whenever someone disconnects this piece of code executed
-   socket.on('disconnect', function () {
-      console.log('A user disconnected');
-   });
+io.on("connection", function (socket) {
+  console.log("A user connected");
+
+  //Whenever someone disconnects this piece of code executed
+  socket.on("disconnect", function () {
+    console.log("A user disconnected");
+  });
 });
-http.listen(3000, function(){
-   console.log('listening on *:3000');
+http.listen(3000, function () {
+  console.log("listening on *:3000");
 });
-~~~
+```
 
 After completing the above procedure, the index.html file will look as follows :
 
-~~~html
+```html
 <!DOCTYPE html>
 <html>
-   <head><title>Hello world</title></head>
-   <script src="/socket.io/socket.io.js"></script>
-   <script>
-      var socket = io();
-   </script>
-   <body>Hello world</body>
+  <head>
+    <title>Hello world</title>
+  </head>
+  <script src="/socket.io/socket.io.js"></script>
+  <script>
+    var socket = io();
+  </script>
+  <body>
+    Hello world
+  </body>
 </html>
-~~~
+```
 
 If you refresh your browser, it will disconnect the socket connection and recreate. You can see the following on your console logs :
 
-~~~
+```
 A user connected
 A user disconnected
 A user connected
-~~~
+```
 
 ### Socket.IO - Event Handling
 
 Sockets work based on events. There are some reserved events, which can be accessed using the socket object on the server side.
 
 These are :
+
 - Connect
 - Message
 - Disconnect
@@ -95,6 +101,7 @@ These are :
 - Leave.
 
 The client-side socket object also provides us with some reserved events, which are −
+
 - Connect
 - Connect_error
 - Connect_timeout
@@ -112,5 +119,17 @@ Namespaces are created on the server side. However, they are joined by clients b
 
 # References :
 
-- 
+- [Web Sockets](https://en.wikipedia.org/wiki/WebSocket)
+- [Socket.io Tutorial](https://www.tutorialspoint.com/socket.io/)
+- [Socket.io vs Web Sockets](https://www.educba.com/websocket-vs-socket-io/)
 
+## Videos
+
+- [OSI Model Explained](https://www.youtube.com/watch?v=vv4y_uOneC0&ab_channel=TechTerms)
+- [TCP Handshakes Explained](https://www.youtube.com/watch?v=xMtP5ZB3wSk)
+
+## Bookmark and Review
+- [Socket.io Documentation](https://socket.io/docs/v4/)
+- [Socket.io Server API](https://socket.io/docs/v4/server-api)
+- [Socket.io Client API](https://socket.io/docs/v4/client-api)
+- [Socket Testing Tool](https://amritb.github.io/socketio-client-tool/)
