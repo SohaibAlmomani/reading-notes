@@ -37,6 +37,7 @@ This page can keep track of my observations and questions from the Reading Assig
 - [Class 10 Stacks and Queues](Stacks-%26-Queues.md)
 - [Class 11 Event-Driven Programming in Node.js](Event-Driven.md)
 - [Class 12 Socket.io](/Socket.io.md)
+- [Class 13 Message Queues](/Message%20Queues.md)
 
 > # Data Structure Notes :
 
