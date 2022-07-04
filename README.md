@@ -39,6 +39,7 @@ This page can keep track of my observations and questions from the Reading Assig
 - [Class 12 Socket.io](/Socket.io.md)
 - [Class 13 Message Queues](/Message%20Queues.md)
 - [Class 15 Trees](./Trees.md)
+- [Class 16 AWS: Cloud Servers](./AWS-Cloud%20Servers.md)
 
 > # Data Structure Notes :
 
