@@ -40,6 +40,7 @@ This page can keep track of my observations and questions from the Reading Assig
 - [Class 13 Message Queues](/Message%20Queues.md)
 - [Class 15 Trees](./Trees.md)
 - [Class 16 AWS: Cloud Servers](./AWS-Cloud%20Servers.md)
+- [Class 17 AWS: S3 and Lambda](./AWS%3A%20S3%20and%20Lambda.md)
 
 > # Data Structure Notes :
 
