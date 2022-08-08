@@ -48,4 +48,6 @@ This page can keep track of my observations and questions from the Reading Assig
 
 > # FrontEnd Notes :
 
+- [Class 26 : Component Based UI ](./Component%20Based%20UI.md)
+
 > # Things I want to know more about :
