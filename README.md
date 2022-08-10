@@ -50,4 +50,6 @@ This page can keep track of my observations and questions from the Reading Assig
 
 - [Class 26 : Component Based UI ](./Component%20Based%20UI.md)
 
+- [Class 27 : Hook ](./Hook%20%7BuseState()%7D.md)
+
 > # Things I want to know more about :
