@@ -50,6 +50,8 @@ This page can keep track of my observations and questions from the Reading Assig
 
 - [Class 26 : Component Based UI ](./Component%20Based%20UI.md)
 
-- [Class 27 : Hook ](./Hook%20%7BuseState()%7D.md)
+- [Class 27 : Hook ](<./Hook%20%7BuseState()%7D.md>)
+
+- [Class 28 : Component Lifecycle / `useEffect` Hook](./Component%20Lifecycle-useEffect%20Hook.MD)
 
 > # Things I want to know more about :
