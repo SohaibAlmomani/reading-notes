@@ -54,4 +54,6 @@ This page can keep track of my observations and questions from the Reading Assig
 
 - [Class 28 : Component Lifecycle / `useEffect` Hook](./Component%20Lifecycle-useEffect%20Hook.MD)
 
+- [Class 29 : Advanced State with Reducers](./Advanced%20State%20with%20Reducers.MD)
+
 > # Things I want to know more about :
