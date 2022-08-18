@@ -56,4 +56,6 @@ This page can keep track of my observations and questions from the Reading Assig
 
 - [Class 29 : Advanced State with Reducers](./Advanced%20State%20with%20Reducers.MD)
 
+- [Class 30 : Hash Tables](./Hash%20Tables.MD)
+
 > # Things I want to know more about :
