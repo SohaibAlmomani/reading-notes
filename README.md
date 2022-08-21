@@ -58,4 +58,6 @@ This page can keep track of my observations and questions from the Reading Assig
 
 - [Class 30 : Hash Tables](./Hash%20Tables.MD)
 
+- [Class 31 : Context API](./Context%20API.MD)
+
 > # Things I want to know more about :
