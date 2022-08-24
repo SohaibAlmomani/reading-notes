@@ -60,4 +60,6 @@ This page can keep track of my observations and questions from the Reading Assig
 
 - [Class 31 : Context API](./Context%20API.MD)
 
+- [Class 32 : Context API - Behaviors](./Context%20API%20-%20Behaviors.MD)
+
 > # Things I want to know more about :
