@@ -44,13 +44,13 @@ This page can keep track of my observations and questions from the Reading Assig
 
 > # Data Structure Notes :
 
-- [Linked lists ](Linked-Lists.md)
+- [Linked lists](Linked-Lists.md)
 
 > # FrontEnd Notes :
 
-- [Class 26 : Component Based UI ](./Component%20Based%20UI.md)
+- [Class 26 : Component Based UI](./Component%20Based%20UI.md)
 
-- [Class 27 : Hook ](<./Hook%20%7BuseState()%7D.md>)
+- [Class 27 : Hook](<./Hook%20%7BuseState()%7D.md>)
 
 - [Class 28 : Component Lifecycle / `useEffect` Hook](./Component%20Lifecycle-useEffect%20Hook.MD)
 
@@ -61,5 +61,9 @@ This page can keep track of my observations and questions from the Reading Assig
 - [Class 31 : Context API](./Context%20API.MD)
 
 - [Class 32 : Context API - Behaviors](./Context%20API%20-%20Behaviors.MD)
+
+- [Class 33 : `<Login />` and `<Auth />`](./Login%20and%20Auth.MD)
+
+- [Class 34 : API Integration](./API%20Integration.MD)
 
 > # Things I want to know more about :
