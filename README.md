@@ -66,4 +66,10 @@ This page can keep track of my observations and questions from the Reading Assig
 
 - [Class 34 : API Integration](./API%20Integration.MD)
 
+- [Class 35 : Application State with Redux](./Application%20State%20with%20Redux.MD)
+
+- [Class 36 : Graphs](./Graphs.MD)
+
+- [ Class 37 : Redux - Asynchronous Actions](./Redux%20-%20Asynchronous%20Actions.MD)
+
 > # Things I want to know more about :
